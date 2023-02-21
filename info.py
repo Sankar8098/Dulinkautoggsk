@@ -70,6 +70,6 @@ AUTO_DELETE = environ.get('AUTO_DELETE', True)
 if AUTO_DELETE == "True":
     AUTO_DELETE = True
 
-SHORTNER_SITE = environ.get('SHORTNER_SITE', 'Dulink.in')
-SHORTNER_API = environ.get('SHORTNER_API', '7e7d6c0eb3848f430644eec36859093021f04f76')
+SHORTNER_SITE = environ.get('SHORTNER_SITE', 'tnlink.in')
+SHORTNER_API = environ.get('SHORTNER_API', '2453d63f651627a3a898c4a0c3301a6e7e0ca645')
 
